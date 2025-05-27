@@ -1,0 +1,23 @@
+2 术语
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">2 术语和代号</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;" > 本章仅将本规范出现的、需要明确定义的术语列出，有关桥梁专业性的通用术语，大家都比较熟悉，没有编入。</p>
+ <p style="text-align:justify;text-indent:2em;" > 本次修订删除了相关已经定义的常用术语，如原规范中主桥、引桥、上部结构等通用术语；补充了本规范涉及的检查类型的专用术语，如初始检查、日常巡查、特殊检查等，以及养护工程的专用术语，如预防养护、修复养护、专项养护、应急养护等。</p>
+
+    <style>
+        #abc{
+            height:400px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>

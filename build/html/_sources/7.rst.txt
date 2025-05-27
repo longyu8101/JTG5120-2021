@@ -1,0 +1,169 @@
+7 涵洞检查、养护与维修
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">7 涵洞检查、养护与维修</h2>
+
+
+
+7.1 一般规定
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 涵洞的养护应符合下列规定：</span></p>
+ <ol>
+ <li>功能正常、排水顺畅、排放适当；</li>
+ <li>各构件及附属结构完好；</li>
+ <li>涵洞表面清洁、不漏水。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 涵洞养护工作内容应包括经常检查和定期检查，日常养护、维修、加固与改建。</span></p>
+ <p style="text-align:justify"><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 涵洞需开挖维修加固时，必须按现行《公路养护安全作业规程》（JTG H30）的要求实施作业。</span></p>
+
+7.2 涵洞检查
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1"> 经常检查应符合下列规定：</span></p>
+ <ol>
+ <li>经常检查每季度不少于 1 次，在汛期及冰雪前后应加大检查频率。</li>
+ <li>经常检查采用目测方法，也可配以简单工具进行测量，现场填写“涵洞经常检查记录表”（附录 F），记录所检查项目的缺损类型，估计缺损范围及养护工作量，提出相应的小修保养措施，为编制辖区内涵洞养护工作计划提供依据。</li>
+ <li>经常检查内容包括：</li>
+ </ol> 
+ <dl>
+ <li>&emsp;&emsp;1）进、出水口铺砌、翼墙、护坡、挡水墙、沉沙井、跌水、急流槽等是否完整。</li>
+ <li>&emsp;&emsp;2）进、出水口是否堵塞，沉沙井有无淤积，洞内有无淤塞及排水不畅。</li>
+ <li>&emsp;&emsp;3）洞口周围是否有杂物堆积，涵洞是否清洁、渗漏水。</li>
+ <li>&emsp;&emsp;4）高填土涵洞的路基填土是否稳定、是否沉降。</li>
+ <li>&emsp;&emsp;5）涵洞结构各构件是否有损坏。</li>
+ <li>&emsp;&emsp;6）交通标志及涵洞其他附属构造是否完好。</li>
+ <li>&emsp;&emsp;7）其他明显的损坏或病害。</li>
+ </dl> 
+ <ol start="4">
+ <li>经常检查中发现有排水不畅或有构件明显损坏需要进行维修时，应做好记录并及时报告。</li>
+ </ol>  
+ <p style="text-align:justify"><a href="#id7.2.2"> 7.2.2</a> <span id="id7.2.2"> 定期检查应符合下列规定：</span></p>
+ <ol>
+ <li>涵洞的定期检查周期不得超过 3 年，特殊结构及特别重要的涵洞每年检查不少于 1 次。新建、改建涵洞交付使用两年内，应进行第一次全面检查。经常检查发现存在较大损坏时，应立即安排定期检查。</li>
+ <li>定期检查以目测观察结合仪器观测进行，应接近各部件仔细检查其缺损情况。定期检查的主要工作有：</li>
+ </ol> 
+ <dl>
+ <li>&emsp;&emsp;1）现场校核涵洞基本数据，填写或补充完善“涵洞基本状况卡片”（附录 G）。</li>
+ <li>&emsp;&emsp;2）现场填写“涵洞定期检查记录表”（附录 H），记录各部件缺损状况。</li>
+ <li>&emsp;&emsp;3）判断病害原因，确定维修范围及方式。</li>
+ <li>&emsp;&emsp;4）进行涵洞技术状况评定，提出下次检查时间建议。</li>
+ <li>&emsp;&emsp;5）对损坏严重、危及安全运营的涵洞，提出限制交通、维修加固或改建的建议。</li>
+ </dl> 
+ <ol start="3">
+ <li>定期检查应包括下列内容：</li>
+ </ol> 
+ <dl>
+ <li>&emsp;&emsp;1）检查涵洞的过水能力，包括涵洞的位置是否适当，孔径是否足够，涵底纵坡是否合适。</li>
+ <li>&emsp;&emsp;2）进、出水口铺砌、翼墙、护坡、挡水墙、沉沙井、跌水、急流槽等是否完整，洞口连接是否平整顺适，排水是否顺畅。</li>
+ <li>&emsp;&emsp;3）涵体侧墙或台身是否渗漏水、开裂、变形或倾斜，墙身砌缝砂浆是否脱落，砌块是否松动，基础是否冲刷淘空。</li>
+ <li>&emsp;&emsp;4）涵身顶部的盖板、顶板或拱顶是否开裂、漏水、变形下挠，砌缝砂浆是否脱落，砌块是否松动、脱落。</li>
+ <li>&emsp;&emsp;5）涵底是否淤塞阻水，涵底铺砌是否开裂、沉降、隆起或缺损。</li>
+ <li>&emsp;&emsp;6）洞口附近填土是否有渗水、冲刷、空洞，填土是否稳定。</li>
+ <li>&emsp;&emsp;7）涵洞顶路面是否开裂、沉陷、存在跳车现象。</li>
+ <li>&emsp;&emsp;8）交通标志及涵洞其他附属设施是否损坏、失效。</li>
+ </dl> 
+ <ol start="4">
+ <li>涵洞定期检查可按<a href="#B7.2.2">表7.2.2</a>，并结合检查人员经验，对涵洞的技术状况综合做出好、较好、较差、差、危险五个级别的技术状况评定，提出日常养护、维修、加固、改建等建议。</li>
+ </ol> 
+  <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+ <table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B7.2.2">表7.2.2 涵洞技术状况评定标准</b></caption>	
+              
+	 <tr>
+	 <td  align="center" id="dhbg" width="200px">技术状况评定等级</td>
+	 <td  align="center" id="dhbg" width="700px">涵洞技术状况描述</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">好</td>
+   <td align="left" id="dhbg">各构件及附属结构完好，使用正常</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">较好</td>
+   <td align="left" id="dhbg">主要构件有轻微缺损，对使用功能无影响</td>
+   </tr>
+	 <tr>
+   <td align="center" id="dhbg">较差</td>
+   <td align="left" id="dhbg">主要构件有中等缺损，病害发展缓慢，尚能维持正常使用功能</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">差</td>
+   <td align="left" id="dhbg">主要构件有大的缺损，严重影响涵洞使用功能；或影响承载能力，不能保证正常使用</td>
+   </tr>
+   <tr>
+   <td align="center" id="dhbg">危险</td>
+   <td align="left" id="dhbg">主要构件存在严重缺损，不能正常使用，危及涵洞结构安全</td>
+   </tr>
+	</table>
+ <p><font size="2">  </font></p>
+ <p style="text-align:justify"><a href="#id7.2.3"> 7.2.3</a> <span id="id7.2.3"> 涵洞定期检查后应提交下列文件：</span></p>
+ <ol>
+ <li>本次检查涵洞清单。</li>
+ <li>涵洞基本状况卡片（附录 G）、涵洞定期检查记录表（附录 H）、涵洞技术状况评定表。</li>
+ <li>典型缺损和病害的照片及说明。缺损状况的描述应采用专业标准术语，说明缺损的部位、类型、性质、范围、数量和程度等。</li>
+ <li>两张总体照片。一张上游侧立面照片，一张下游侧立面照片。</li>
+ <li>定期检查报告应包括下列内容：</li>
+ </ol>
+ <dl>
+ <li>&emsp;&emsp;1）辖区内所有被检查涵洞的技术状况评定等级及日常养护情况，可按路线编号进行统计或按涵洞结构类型进行统计。</li>
+ <li>&emsp;&emsp;2）需要维修加固或改建的涵洞，说明维修的项目、拟采用的维修方案、预估费用和建议实施时间。</li>
+ <li>&emsp;&emsp;3）需进行交通管制的涵洞的建议报告。</li>
+ </dl>
+
+7.3 涵洞日常维护
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1"> 应保持洞口清洁无杂物，洞内排水畅通，发现淤塞或积雪、积冰应及时疏通和清除。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.2"> 7.3.2</a> <span id="id7.3.2"> 涵底铺砌、洞口上下游路基护坡、引水沟、汇水槽、沉沙井等发生变形或出现破损时，应及时修理或封塞填平。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.3"> 7.3.3</a> <span id="id7.3.3"> 对在进水口设置沉沙井和出水口为跌水构造的涵洞，应适时检查其是否损坏、与洞口是否结合成整体。有损坏或发现裂隙甚至脱离时，应及时修复，使水流畅通。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.4"> 7.3.4</a> <span id="id7.3.4"> 沉降缝或连续缝止水带应保持完好，有破损时应及时更换。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.5"> 7.3.5</a> <span id="id7.3.5"> 洞内排水明沟每周应清扫一次，排水暗沟每季度应疏通一次。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.6"> 7.3.6</a> <span id="id7.3.6"> 采用机械排水的涵洞，应保持排水泵、阀、排水管道及其他设备功能完好、运转正常，并作定期检修。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.7"> 7.3.7</a> <span id="id7.3.7"> 设有照明设施的涵洞，应保持照明设备处于完好状态，照明灯具和输电线路有损坏时应及时更换、维修。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.8"> 7.3.8</a> <span id="id7.3.8"> 通行车辆的涵洞应设置明显的限高标志并保持完好。涵洞端面应涂设立面标记，并保持颜色鲜明，定期涂刷。</span></p>
+ <p style="text-align:justify"><a href="#id7.3.9"> 7.3.9</a> <span id="id7.3.9"> 波纹管防护涂层剥落、波纹管锈蚀应及时维修。</span></p>
+
+
+7.4 涵洞维修
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.4.1"> 7.4.1</a> <span id="id7.4.1"> 涵洞圬工砌体表面出现局部风化、开裂、灰缝剥落，局部砌块松动、脱落，或砌体渗漏水时，应及时维修。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.2"> 7.4.2</a> <span id="id7.4.2"> 钢筋混凝土结构涵洞，其开裂、露筋、混凝土剥落等常见病害的处治措施与桥梁一致，应按相关技术标准、规范、规程要求进行维修加固。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.3"> 7.4.3</a> <span id="id7.4.3"> 混凝土管涵的接头或铰缝处发生填缝料脱落，引起渗水时，应及时维修。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.4"> 7.4.4</a> <span id="id7.4.4"> 涵洞渗漏水严重时应及时处治。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.5"> 7.4.5</a> <span id="id7.4.5"> 涵洞进、出水口处冲刷严重时应及时处治。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.6"> 7.4.6</a> <span id="id7.4.6"> 涵洞经常发生泥沙淤积时，宜在进水口设沉沙井。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.7"> 7.4.7</a> <span id="id7.4.7"> 管涵的管节因基础沉陷而发生严重错裂时应及时处治。</span></p>
+ <p style="text-align:justify"><a href="#id7.4.8"> 7.4.8</a> <span id="id7.4.8"> 局部损坏或承载能力不足的涵洞应及时维修加固，保障通行安全。</span></p>

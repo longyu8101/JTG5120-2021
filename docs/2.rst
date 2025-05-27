@@ -1,0 +1,48 @@
+2 术语
+==============================================
+
+.. raw:: html
+
+  <h2 id="test111">2 术语和代号</h2>
+
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id2.0.1"> 2.0.1</a> <span id="id2.0.1"> 桥梁技术状况 bridge technical condition</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 桥梁结构各部件或构件的综合技术指标，反映桥梁结构的完好程度、安全程度及使用功能的完善程度。</p>
+ <p style="text-align:justify"><a href="#id2.0.2"> 2.0.2</a> <span id="id2.0.2"> 初始检查 initial inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 新建或改建桥梁交付使用后，对桥梁结构及其附属构件的技术状况进行的首次全面检测，其成果是后期桥梁检查和评定工作的基准。</p>
+ <p style="text-align:justify"><a href="#id2.0.3"> 2.0.3</a> <span id="id2.0.3"> 日常巡查 daily inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 对桥面及其以上部分的桥梁构件、结构异常变位和桥梁安全保护区的日常巡视和目测检查。</p>
+ <p style="text-align:justify"><a href="#id2.0.4"> 2.0.4</a> <span id="id2.0.4">经常检查 routine inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 抵近桥涵结构，采用目测结合辅助工具对桥面系、上部结构、下部结构和附属设施表观状况进行的周期性检查。</p>
+ <p style="text-align:justify"><a href="#id2.0.5"> 2.0.5</a> <span id="id2.0.5">定期检查 periodic detection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 对桥涵总体技术状况进行的周期性检查及技术状况评定。</p>
+ <p style="text-align:justify"><a href="#id2.0.6"> 2.0.6</a> <span id="id2.0.6">特殊检查 special detection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 对桥梁承载能力、抗灾能力、耐久性能、水中基础技术状况进行的一项或多项检查与评定，以及对定期检查中难以判明病害成因及程度的桥梁进行的检查。</p>
+ <p style="text-align:justify"><a href="#id2.0.7"> 2.0.7</a> <span id="id2.0.7">日常养护 daily maintenance</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 对桥涵及其附属设施进行的维护保养和修补轻微缺损的工作。</p>
+ <p style="text-align:justify"><a href="#id2.0.8"> 2.0.8</a> <span id="id2.0.8">预防养护 preventive maintenance</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 桥涵有轻微病害但整体性能良好，为延缓其性能衰减、延长使用寿命而采取的防护工程。</p>
+ <p style="text-align:justify"><a href="#id2.0.9"> 2.0.9</a> <span id="id2.0.9">修复养护 repair maintenance</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 为恢复桥涵技术状况而实施的功能性、结构性修复或更换的工程措施。</p>
+ <p style="text-align:justify"><a href="#id2.0.10"> 2.0.10</a> <span id="id2.0.10">专项养护 special maintenance</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 为恢复、完善或提升桥涵使用功能而集中实施的增设、加固、改造、拆除重建等工程措施。</p>
+ <p style="text-align:justify"><a href="#id2.0.11"> 2.0.11</a> <span id="id2.0.11">应急养护 emergency maintenance</span></p>
+ <p style="text-align:justify;text-indent:2em;">突发情况造成公路桥涵损毁、交通中断、产生安全隐患时，实施的应急抢修、保通等工程措施。</p>
+ <p style="text-align:justify"><a href="#id2.0.12"> 2.0.12</a> <span id="id2.0.12">桥涵加固 bridge&culvert strengthening</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 对桥涵部件或构件采取的补强、更换或调整内力等使其满足使用要求的工程措施。</p>
+ <p style="text-align:justify"><a href="#id2.0.13"> 2.0.13</a> <span id="id2.0.13">桥涵改建 bridge&culvert reconstruction</span></p>
+ <p style="text-align:justify;text-indent:2em;">桥涵不能满足使用需求，为提升其技术标准、荷载等级、通行能力、抗灾能力等而实施的改造工程。</p>
+
+
+2.2 代号
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id2.2.1"> 2.2.1</a> <span id="id2.2.1"> BCI(BridgeConditionIndex)——Ⅱ类～V类城市桥梁状况指数，用以表征桥梁结构的完好状态。</span></p>
+ <p style="text-align:justify"><a href="#id2.2.2"> 2.2.2</a> <span id="id2.2.2"> BSI(BridgeStructure Index)——Ⅱ类～V类城市桥梁结构状况指数，用以表征桥梁不同组成部分的最不利的单个要素或单跨(墩)的结构状况。</span></p>
+ <p style="text-align:justify"><a href="#id2.2.3"> 2.2.3</a> <span id="id2.2.3"> PUCI(Pedestrian UnderpassCondition Index)——人行地下通道状况指数，用以表征人行地下通道结构的完好状态。</span></p>
+ <p style="text-align:justify"><a href="#id2.2.4"> 2.2.4</a> <span id="id2.2.4"> PU——表示用聚氮酯弹性体制成包裹在PE护层外的彩色拉索护层。</span></p>
+ <p style="text-align:justify"><a href="#id2.2.5"> 2.2.5</a> <span id="id2.2.5"> PE——表示用掺入2%～5%碳黑的高密度聚乙烯制成的拉索护层。</span></p>

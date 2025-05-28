@@ -3,7 +3,7 @@
 
 .. raw:: html
 
-  <h2 id="test111">2 术语和代号</h2>
+  <h2 id="test111">2 术语</h2>
 
 
 .. raw:: html
@@ -35,14 +35,3 @@
  <p style="text-align:justify"><a href="#id2.0.13"> 2.0.13</a> <span id="id2.0.13">桥涵改建 bridge&culvert reconstruction</span></p>
  <p style="text-align:justify;text-indent:2em;">桥涵不能满足使用需求，为提升其技术标准、荷载等级、通行能力、抗灾能力等而实施的改造工程。</p>
 
-
-2.2 代号
----------------------------
-
-.. raw:: html
-
- <p style="text-align:justify"><a href="#id2.2.1"> 2.2.1</a> <span id="id2.2.1"> BCI(BridgeConditionIndex)——Ⅱ类～V类城市桥梁状况指数，用以表征桥梁结构的完好状态。</span></p>
- <p style="text-align:justify"><a href="#id2.2.2"> 2.2.2</a> <span id="id2.2.2"> BSI(BridgeStructure Index)——Ⅱ类～V类城市桥梁结构状况指数，用以表征桥梁不同组成部分的最不利的单个要素或单跨(墩)的结构状况。</span></p>
- <p style="text-align:justify"><a href="#id2.2.3"> 2.2.3</a> <span id="id2.2.3"> PUCI(Pedestrian UnderpassCondition Index)——人行地下通道状况指数，用以表征人行地下通道结构的完好状态。</span></p>
- <p style="text-align:justify"><a href="#id2.2.4"> 2.2.4</a> <span id="id2.2.4"> PU——表示用聚氮酯弹性体制成包裹在PE护层外的彩色拉索护层。</span></p>
- <p style="text-align:justify"><a href="#id2.2.5"> 2.2.5</a> <span id="id2.2.5"> PE——表示用掺入2%～5%碳黑的高密度聚乙烯制成的拉索护层。</span></p>
